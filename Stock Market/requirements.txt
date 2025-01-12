@@ -1,0 +1,6 @@
+openai
+python-dotenv
+yfinance
+packaging
+uvicorn
+groq
