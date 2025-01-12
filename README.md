@@ -1,6 +1,4 @@
-Here’s the updated **README** without the project structure section:
 
----
 
 # AI Agent  
 
